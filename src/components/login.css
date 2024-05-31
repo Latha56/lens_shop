@@ -1,0 +1,95 @@
+.homeproperty
+{
+    height: 700px;
+    display: flex;
+}
+.property {
+  display: flex;
+  flex-direction: row;
+  width: 25%;
+  height: 55%;
+  padding-inline: 20px;
+  box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
+  margin-top: 50px;
+  margin-left: 50px;
+  
+}
+
+.property form input {
+  height: 50px;
+  width: 70%;
+  border: none;
+  border-bottom: 1px solid #121619;
+  color: black;
+  background-color:transparent;
+}
+
+input::placeholder {
+  font-weight: bold;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.property form input:focus{
+  outline: none;
+  background-color:transparent;
+}
+
+.property form label {
+  margin-top: 10px;
+  color: grey;
+}
+
+.property form button {
+  margin-top: 40px;
+  width: 140px;
+  height: 40px;
+  border: none;
+  background-color: #121619;
+  color: whitesmoke;
+  font-size: 15px;
+  cursor: pointer;
+}
+.property1 {
+  display: flex;
+  flex-direction: row;
+  width: 125%;
+  height: 55%;
+  padding-inline: 20px;
+  box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
+  margin-top: 50px;
+  margin-left:50px;
+}
+.property1 form input {
+  height: 55px;
+  width: 100%;
+  border: none;
+  border-bottom: 1px solid #121619;
+  color: black;
+  background-color:transparent;
+}
+
+.property1 input::placeholder {
+  font-weight: bold;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.property1 form input:focus {
+  outline: none;
+  background-color:transparent;
+}
+
+.property1 form label {
+  margin-top: 10px;
+  color: grey;
+}
+
+.property1 form button {
+  margin-top: 40px;
+  width: 140px;
+  height: 40px;
+  border: none;
+  background-color: #121619;
+  color: whitesmoke;
+  font-size: 15px;
+  cursor: pointer;
+}

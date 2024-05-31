@@ -1,0 +1,46 @@
+.home
+{
+    background-size: cover;
+}
+.property
+{
+    height: 25px;
+    padding-bottom:0%;
+    padding-top: 0%;
+}
+.left
+{
+  padding-top: 1%;
+  text-underline-offset:unset;
+  display: flex;
+  text-decoration: none;
+   color :black;
+   align-items : right;
+}
+a {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+  }
+.homeproperty
+{
+    height: 700px;
+}
+.footerproperty
+{
+    height: 25px;
+    
+}
+.login {
+    color: black;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    justify-content: center;
+    background-color: #121619;
+    height: 20px;
+    width: 75px;
+    color: white;
+    text-decoration: none;
+    font-size: 10px;
+}

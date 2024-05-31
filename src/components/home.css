@@ -1,0 +1,40 @@
+.homeproperty
+{
+    height: 700px;
+}
+.homeproperty .pro
+{
+  height: 100px;
+  width: 500px;
+  padding-left: 20px;
+}
+.pro h1 {
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    height: 50px;
+    font-weight: 50;
+    color: black;
+  }
+  
+  .pro p {
+    padding: 0;
+    font-size: 20px;
+    font-weight: lighter;
+    color: black;
+  }
+  
+  .pro button {
+    color: black;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    justify-content: center;
+    background-color: #121619;
+    height: 50px;
+    width: 180px;
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+  }
+  
