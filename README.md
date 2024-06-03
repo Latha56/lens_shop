@@ -3,17 +3,6 @@
 ## Project Description
 **Lens Cart** is a fully functional e-commerce website designed using the **React.js** framework and **CSS**. This project was developed using **Visual Studio Code** and does not have a backend server; instead, it utilizes **localStorage** to manage user login details. After installation, users can extract the project files and run the project through Visual Studio Code.
 
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-- [Authors and Acknowledgements](#authors-and-acknowledgements)
-- [Contact Information](#contact-information)
-- [Screenshots](#screenshots)
-- [Future Enhancements](#future-enhancements)
 
 ## Installation
 To install and set up the Lens Cart project, follow these steps:
