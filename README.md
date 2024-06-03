@@ -70,7 +70,7 @@ After running the project, you can use the following features:
 ![Feedback Page](screenshot/feedbackpage.png)
 ![Login Page](screenshot/loginpage.png)
 ![Menu page](screenshot/menupage.png)
-![Product details Page](screenshot/productdetails.png)
+![Product details Page](screenshot/productdetail.png)
 ![Cart Page](screenshot/cartpage.png)
 ![liked page](screenshot/likedimages.png)
 ![Slipping page](screenshot/slippingpage.png)
