@@ -66,15 +66,15 @@ After running the project, you can use the following features:
 - **Latha HN** - [Your GitHub](https://github.com/Latha56)
 
 ## Screenshots
-<div align="center">
-  <div style="display: inline-block;">
+<div style="display: flex; justify-content: center;">
+  <div style="margin-right: 10px;">
     <img width="25%" src="screenshot/homepage.png" alt="Home Page">
     <p style="margin-top: 5px; text-align: center;">Home Page</p>
   </div>
-  <div style="display: inline-block;">
+  <div>
     <img width="25%" src="screenshot/feedbackpage.png" alt="Feedback Page">
     <p style="margin-top: 5px; text-align: center;">Feedback Page</p>
-  </div>
+  </div
 </div>
 
 
