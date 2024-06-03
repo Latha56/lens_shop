@@ -67,12 +67,12 @@ After running the project, you can use the following features:
 
 ## Screenshots
 ![Home Page](screenshot/homepage.png)
-![Login Page](screenshot/loginpage.png)
 ![Feedback Page](screenshot/feedbackpage.png)
-![Cart Page](screenshot/cartpage.png)
-![liked page](screenshot/likedimages.png)
+![Login Page](screenshot/loginpage.png)
 ![Menu page](screenshot/menupage.png)
 ![Product details Page](screenshot/productdetails.png)
+![Cart Page](screenshot/cartpage.png)
+![liked page](screenshot/likedimages.png)
 ![Slipping page](screenshot/slippingpage.png)
 
 ## Future Enhancements
