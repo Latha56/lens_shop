@@ -67,25 +67,25 @@ After running the project, you can use the following features:
 
 ## Screenshots
 ### Home page
-<p align="right" width="100%"><img width="50%" src="screenshot/homepage.png" alt="home"></p>
+<p align="left" width="100%"><img width="50%" src="screenshot/homepage.png" alt="home"></p>
 
 ## Signin/Login page
-<p align="right" width="100%"><img width="50%" src="screenshot/login.png" alt="login"></p>
+<p align="left" width="100%"><img width="50%" src="screenshot/login.png" alt="login"></p>
 
 ### Menu / Menu details page
-<p align="right" width="50%">
+<p align="left" width="50%">
 <img width="25%" src="screenshot/menupage.png" alt="menu">
 <img width="50%" src="screenshot/menudetails.png" alt="details"></p>
 
 ## Like page
-<p align="right" width="100%"><img width="50%" src="screenshot/likedimage.png" alt="liked"> </p>
+<p align="left" width="100%"><img width="50%" src="screenshot/likedimage.png" alt="liked"> </p>
 
 ## cart / shipping page
-<p align="right" width="100%"><img width="50%" src="screenshot/cartpage.png" alt="cart">
+<p align="left" width="100%"><img width="50%" src="screenshot/cartpage.png" alt="cart">
 <img width="50%" src="screenshot/slippingpage.png" alt="slipping"> </p>
 
 ## feedback page
-<p align="right" width="100%"><img width="50%" src="screenshot/feedbackpage.png" alt="feedback"> </p>
+<p align="left" width="100%"><img width="50%" src="screenshot/feedbackpage.png" alt="feedback"> </p>
 
 
 ## Future Enhancements
