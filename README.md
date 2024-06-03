@@ -66,16 +66,23 @@ After running the project, you can use the following features:
 - **Latha HN** - [Your GitHub](https://github.com/Latha56)
 
 ## Screenshots
-<div style="display: flex; justify-content: center;">
-  <div style="margin-right: 10px;">
-    <img width="25%" src="screenshot/homepage.png" alt="Home Page">
-    <p style="margin-top: 5px; text-align: center;">Home Page</p>
-  </div>
-  <div>
-    <img width="25%" src="screenshot/feedbackpage.png" alt="Feedback Page">
-    <p style="margin-top: 5px; text-align: center;">Feedback Page</p>
-  </div
-</div>
+
+### Home page
+<p align="center" width="100%">
+<img width="25%" src="screenshot/homepage.png" alt="Home Page">
+</p>
+
+### Feedback page
+<p align="center" width="100%">
+ <img width="25%" src="screenshot/feedbackpage.png" alt="Feedback Page">
+</p>
+
+### Menu / Product details page
+<p align="center" width="100%">
+<img width="25%" src="screenshot/menupage.png" alt="Menu Page">
+<img width="25%" src="screenshot/productdetailpage.png" alt="product Page">
+</p>
+
 
 
 ## Future Enhancements
