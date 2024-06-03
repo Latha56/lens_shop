@@ -66,6 +66,7 @@ After running the project, you can use the following features:
 - **Latha HN** - [Your GitHub](https://github.com/Latha56)
 
 ## Screenshots
+
 ### Home page
 <p align="left" width="100%"><img width="50%" src="screenshot/homepage.png" alt="home"></p>
 
@@ -75,14 +76,15 @@ After running the project, you can use the following features:
 ### Menu / Menu details page
 <p align="left" width="100%">
 <img width="25%" src="screenshot/menupage.png" alt="menu">
-<img width="50%" src="screenshot/menudetail.png" alt="details"></p>
+<img width="25%" src="screenshot/productdetail.png" alt="details">
+</p>
 
 ## Like page
 <p align="left" width="100%"><img width="50%" src="screenshot/likedimages.png" alt="liked"> </p>
 
 ## cart / shipping page
-<p align="left" width="100%"><img width="50%" src="screenshot/cartpage.png" alt="cart">
-<img width="50%" src="screenshot/slippingpage.png" alt="slipping"> </p>
+<p align="left" width="100%"><img width="25%" src="screenshot/cartpage.png" alt="cart">
+<img width="25%" src="screenshot/slippingpage.png" alt="slipping"> </p>
 
 ## feedback page
 <p align="left" width="100%"><img width="50%" src="screenshot/feedbackpage.png" alt="feedback"> </p>
