@@ -1,4 +1,4 @@
-# <img src="https://t3.ftcdn.net/jpg/03/38/40/94/360_F_338409482_YXUbGFqQyZKJuzUHS2DnjGZGaBMJSdcr.jpg" alt="Spectacles Logo" width="50"/> Lens Cart
+# <img src="https://t3.ftcdn.net/jpg/03/38/40/94/360_F_338409482_YXUbGFqQyZKJuzUHS2DnjGZGaBMJSdcr.jpg" alt="Spectacles Logo" width="100"/> Lens Cart
 
 ## Project Description
 **Lens Cart** is a fully functional e-commerce website designed using the **React.js** framework and **CSS**. This project was developed using **Visual Studio Code** and does not have a backend server; instead, it utilizes **localStorage** to manage user login details. After installation, users can extract the project files and run the project through Visual Studio Code.
