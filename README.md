@@ -65,23 +65,50 @@ After running the project, you can use the following features:
 ## Authors and Acknowledgements
 - **Latha HN** - [Your GitHub](https://github.com/Latha56)
 
-## Screenshots
+## Screenshot
 
-| ![Home Page](screenshot/homepage.png) | ![Feedback Page](screenshot/feedbackpage.png) |
-|----------------------------------------|-----------------------------------------------|
-| Home Page                              | Feedback Page                                 |
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <div style="margin: 10px; text-align: center;">
+    <img src="screenshot/homepage.png" alt="Home Page" style="width: 300px;">
+    <p style="margin-top: 5px;">Home Page</p>
+  </div>
+  
+  <div style="margin: 10px; text-align: center;">
+    <img src="screenshot/feedbackpage.png" alt="Feedback Page" style="width: 300px;">
+    <p style="margin-top: 5px;">Feedback Page</p>
+  </div>
+  
+  <div style="margin: 10px; text-align: center;">
+    <img src="screenshot/loginpage.png" alt="Login Page" style="width: 300px;">
+    <p style="margin-top: 5px;">Login Page</p>
+  </div>
+  
+  <div style="margin: 10px; text-align: center;">
+    <img src="screenshot/menupage.png" alt="Menu Page" style="width: 300px;">
+    <p style="margin-top: 5px;">Menu Page</p>
+  </div>
+  
+  <div style="margin: 10px; text-align: center;">
+    <img src="screenshot/productdetail.png" alt="Product Details Page" style="width: 300px;">
+    <p style="margin-top: 5px;">Product Details Page</p>
+  </div>
+  
+  <div style="margin: 10px; text-align: center;">
+    <img src="screenshot/cartpage.png" alt="Cart Page" style="width: 300px;">
+    <p style="margin-top: 5px;">Cart Page</p>
+  </div>
+  
+  <div style="margin: 10px; text-align: center;">
+    <img src="screenshot/likedimages.png" alt="Liked Page" style="width: 300px;">
+    <p style="margin-top: 5px;">Liked Page</p>
+  </div>
+  
+  <div style="margin: 10px; text-align: center;">
+    <img src="screenshot/slippingpage.png" alt="Shipping Page" style="width: 300px;">
+    <p style="margin-top: 5px;">Shipping Page</p>
+  </div>
+</div>
 
-| ![Login Page](screenshot/loginpage.png) | ![Menu Page](screenshot/menupage.png) |
-|------------------------------------------|-----------------------------------------|
-| Login Page                               | Menu Page                               |
-
-| ![Product Details Page](screenshot/productdetail.png) | ![Cart Page](screenshot/cartpage.png) |
-|--------------------------------------------------------|----------------------------------------|
-| Product Details Page                                  | Cart Page                              |
-
-| ![Liked Page](screenshot/likedimages.png) | ![Shipping Page](screenshot/shippingpage.png) |
-|--------------------------------------------|------------------------------------------------|
-| Liked Page                                 | Shipping Page                                  |
 
 
 ## Future Enhancements
