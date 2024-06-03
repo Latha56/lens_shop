@@ -66,11 +66,25 @@ After running the project, you can use the following features:
 - **Latha HN** - [Your GitHub](https://github.com/Latha56)
 
 ## Screenshots
-<p align="center" width="100%">
-<figure><img width="25%" src="screenshot/homepage.png" alt="Description of the image"><figcaption>Home page </figcaption></figure>
-<figure><img width="25%" src="screenshot/homepage.png" alt="Description of the image"><figcaption>Home page </figcaption></figure>
-<figure><img width="25%" src="screenshot/homepage.png" alt="Description of the image"><figcaption>Home page </figcaption></figure>
-</p>
+### Home page
+<p align="right" width="50%"><img width="25%" src="screenshot/homepage.png" alt="home"></p>
+
+## Signin/Login page
+<p><img width="50%" src="screenshot/login.png" alt="login"></p>
+
+### Menu / Menu details page
+<p align="right" width="50%"><img width="25%" src="screenshot/menupage.png" alt="menu">
+<p><img width="50%" src="screenshot/menudetails.png" alt="details"></p></p>
+
+## Like page
+<p><img width="50%" src="screenshot/likedimage.png" alt="liked"> </p>
+
+## cart / shipping page
+<p><img width="50%" src="screenshot/cartpage.png" alt="cart"></p>
+<p><img width="50%" src="screenshot/slippingpage.png" alt="slipping"> </p>
+
+## feedback page
+<p><img width="50%" src="screenshot/feedbackpage.png" alt="feedback"> </p>
 
 
 ## Future Enhancements
