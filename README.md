@@ -70,7 +70,7 @@ After running the project, you can use the following features:
 ## Screenshots
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <div style="margin: 10px; text-align: center;">
+  <div style="margin: 10px; text-align: center; width: 50%;">
     <img src="screenshot/homepage.png" alt="Home Page" style="width: 300px;">
     <p style="margin-top: 5px;">Home Page</p>
   </div>
