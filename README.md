@@ -66,16 +66,17 @@ After running the project, you can use the following features:
 - **Latha HN** - [Your GitHub](https://github.com/Latha56)
 
 ## Screenshots
-<p align="center" width="100%">
-   <div>
+<div align="center">
+  <div style="display: inline-block;">
     <img width="25%" src="screenshot/homepage.png" alt="Home Page">
-    <p style="margin-top: 5px; align="center">HOme Page</p>
+    <p style="margin-top: 5px; text-align: center;">Home Page</p>
   </div>
-  <div>
+  <div style="display: inline-block;">
     <img width="25%" src="screenshot/feedbackpage.png" alt="Feedback Page">
-    <p style="margin-top: 5px; align="center">Feedback Page</p>
+    <p style="margin-top: 5px; text-align: center;">Feedback Page</p>
   </div>
-</p>
+</div>
+
 
 ## Future Enhancements
 - Add backend functionality for persistent data storage.
