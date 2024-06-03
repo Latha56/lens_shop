@@ -67,7 +67,7 @@ After running the project, you can use the following features:
 
 ## Screenshots
 ![Home Page](screenshot/home page.png)
-![Cart Page](screenshot/cart page.png)
+![Cart Page](screenshot/cartpage.png)
 ![Login Page](screenshot/login page.png)
 ![Feedback Page](screenshot/feedback page.png)
 
