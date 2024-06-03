@@ -61,33 +61,9 @@ After running the project, you can use the following features:
 - **LocalStorage**
 - **Visual Studio Code**
 
-## Contributing
-To contribute to this project, follow these steps:
-
-1. **Fork the repository**
-2. **Create a new branch**:
-    ```bash
-    git checkout -b feature-branch
-    ```
-3. **Make your changes**
-4. **Commit your changes**:
-    ```bash
-    git commit -m 'Add new feature'
-    ```
-5. **Push to the branch**:
-    ```bash
-    git push origin feature-branch
-    ```
-6. **Open a Pull Request**
-
-## License
-This project is licensed under the MIT License.
 
 ## Authors and Acknowledgements
-- **Your Name** - Initial work - [Your GitHub](https://github.com/your-username)
-
-## Contact Information
-For questions or feedback, contact [your-email@example.com](mailto:your-email@example.com).
+- **Latha HN** - [Your GitHub](https://github.com/Latha56)
 
 ## Screenshots
 
