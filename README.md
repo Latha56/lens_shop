@@ -66,6 +66,12 @@ After running the project, you can use the following features:
 - **Latha HN** - [Your GitHub](https://github.com/Latha56)
 
 ## Screenshots
+![Home Page](screenshots/homepage.png)
+![Like Page](screenshots/likepage.png)
+![Cart Page](screenshots/cartpage.png)
+![Login Page](screenshots/loginpage.png)
+![Feedback Page](screenshots/feedbackpage.png)
+
 
 ## Future Enhancements
 - Add backend functionality for persistent data storage.
