@@ -67,6 +67,8 @@ After running the project, you can use the following features:
 
 ## Screenshot
 
+## Screenshots
+
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <div style="margin: 10px; text-align: center;">
     <img src="screenshot/homepage.png" alt="Home Page" style="width: 300px;">
@@ -104,10 +106,14 @@ After running the project, you can use the following features:
   </div>
   
   <div style="margin: 10px; text-align: center;">
-    <img src="screenshot/slippingpage.png" alt="Shipping Page" style="width: 300px;">
+    <img src="screenshot/shippingpage.png" alt="Shipping Page" style="width: 300px;">
     <p style="margin-top: 5px;">Shipping Page</p>
   </div>
 </div>
+
+  
+</div>
+
 
 
 
