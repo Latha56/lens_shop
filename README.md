@@ -67,9 +67,14 @@ After running the project, you can use the following features:
 
 ## Screenshots
 <p align="center" width="100%">
-<img width="25%" src="screenshot/homepage.png" alt="Home Page">
-<img width="25%" src="screenshot/feedbackpage.png" alt="Feedback Page">
-<img width="25%" src="screenshot/loginpage.png" alt="Login Page">
+   <div>
+    <img width="25%" src="screenshot/homepage.png" alt="Home Page">
+    <p style="margin-top: 5px; align="center">HOme Page</p>
+  </div>
+  <div>
+    <img width="25%" src="screenshot/feedbackpage.png" alt="Feedback Page">
+    <p style="margin-top: 5px; align="center">Feedback Page</p>
+  </div>
 </p>
 
 ## Future Enhancements
