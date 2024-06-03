@@ -65,57 +65,48 @@ After running the project, you can use the following features:
 ## Authors and Acknowledgements
 - **Latha HN** - [Your GitHub](https://github.com/Latha56)
 
-## Screenshot
-
 ## Screenshots
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <div style="margin: 10px; text-align: center; width: 50%;">
-    <img src="screenshot/homepage.png" alt="Home Page" style="width: 300px;">
-    <p style="margin-top: 5px;">Home Page</p>
+    <div style="margin: 10px; text-align: center; width: 45%;">
+        <img src="screenshot/homepage.png" alt="Home Page" style="width: 100%;">
+        <p style="margin-top: 5px; text-align: center;">Home Page</p>
+    </div>
+    <div style="margin: 10px; text-align: center; width: 45%;">
+        <img src="screenshot/feedbackpage.png" alt="Feedback Page" style="width: 100%;">
+        <p style="margin-top: 5px; text-align: center;">Feedback Page</p>
+    </div> 
+  <div style="margin: 10px; text-align: center;width: 45%;">
+    <img src="screenshot/loginpage.png" alt="Login Page" style="width: 100px;">
+    <p style="margin-top: 5px;text-align: center;">Login Page</p>
+  </div>
+  
+  <div style="margin: 10px; text-align: center;width: 45%;">
+    <img src="screenshot/menupage.png" alt="Menu Page" style="width: 100px;">
+    <p style="margin-top: 5px;text-align: center;">Menu Page</p>
+  </div>
+  
+  <div style="margin: 10px; text-align: center;width: 45%;">
+    <img src="screenshot/productdetail.png" alt="Product Details Page" style="width: 100px;">
+    <p style="margin-top: 5px;text-align: center;">Product Details Page</p>
+  </div>
+  
+  <div style="margin: 10px; text-align: center;width: 45%;">
+    <img src="screenshot/cartpage.png" alt="Cart Page" style="width: 100px;">
+    <p style="margin-top: 5px;text-align: center;">Cart Page</p>
   </div>
   
   <div style="margin: 10px; text-align: center;">
-    <img src="screenshot/feedbackpage.png" alt="Feedback Page" style="width: 300px;">
-    <p style="margin-top: 5px;">Feedback Page</p>
+    <img src="screenshot/likedimages.png" alt="Liked Page" style="width: 100px;">
+    <p style="margin-top: 5px;text-align: center;">Liked Page</p>
   </div>
   
-  <div style="margin: 10px; text-align: center;">
-    <img src="screenshot/loginpage.png" alt="Login Page" style="width: 300px;">
-    <p style="margin-top: 5px;">Login Page</p>
-  </div>
-  
-  <div style="margin: 10px; text-align: center;">
-    <img src="screenshot/menupage.png" alt="Menu Page" style="width: 300px;">
-    <p style="margin-top: 5px;">Menu Page</p>
-  </div>
-  
-  <div style="margin: 10px; text-align: center;">
-    <img src="screenshot/productdetail.png" alt="Product Details Page" style="width: 300px;">
-    <p style="margin-top: 5px;">Product Details Page</p>
-  </div>
-  
-  <div style="margin: 10px; text-align: center;">
-    <img src="screenshot/cartpage.png" alt="Cart Page" style="width: 300px;">
-    <p style="margin-top: 5px;">Cart Page</p>
-  </div>
-  
-  <div style="margin: 10px; text-align: center;">
-    <img src="screenshot/likedimages.png" alt="Liked Page" style="width: 300px;">
-    <p style="margin-top: 5px;">Liked Page</p>
-  </div>
-  
-  <div style="margin: 10px; text-align: center;">
-    <img src="screenshot/shippingpage.png" alt="Shipping Page" style="width: 300px;">
-    <p style="margin-top: 5px;">Shipping Page</p>
+  <div style="margin: 10px; text-align: center;width: 45%;">
+    <img src="screenshot/shippingpage.png" alt="Shipping Page" style="width: 100px;">
+    <p style="margin-top: 5px;text-align: center;">Shipping Page</p>
   </div>
 </div>
-
-  
 </div>
-
-
-
 
 ## Future Enhancements
 - Add backend functionality for persistent data storage.
