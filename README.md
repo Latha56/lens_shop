@@ -67,46 +67,31 @@ After running the project, you can use the following features:
 
 ## Screenshots
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <div style="margin: 10px; text-align: center; width: 45%;">
-        <img src="screenshot/homepage.png" alt="Home Page" style="width: 100%;">
-        <p style="margin-top: 5px; text-align: center;">Home Page</p>
-    </div>
-    <div style="margin: 10px; text-align: center; width: 45%;">
-        <img src="screenshot/feedbackpage.png" alt="Feedback Page" style="width: 100%;">
-        <p style="margin-top: 5px; text-align: center;">Feedback Page</p>
-    </div> 
-  <div style="margin: 10px; text-align: center;width: 45%;">
-    <img src="screenshot/loginpage.png" alt="Login Page" style="width: 100px;">
-    <p style="margin-top: 5px;text-align: center;">Login Page</p>
-  </div>
-  
-  <div style="margin: 10px; text-align: center;width: 45%;">
-    <img src="screenshot/menupage.png" alt="Menu Page" style="width: 100px;">
-    <p style="margin-top: 5px;text-align: center;">Menu Page</p>
-  </div>
-  
-  <div style="margin: 10px; text-align: center;width: 45%;">
-    <img src="screenshot/productdetail.png" alt="Product Details Page" style="width: 100px;">
-    <p style="margin-top: 5px;text-align: center;">Product Details Page</p>
-  </div>
-  
-  <div style="margin: 10px; text-align: center;width: 45%;">
-    <img src="screenshot/cartpage.png" alt="Cart Page" style="width: 100px;">
-    <p style="margin-top: 5px;text-align: center;">Cart Page</p>
-  </div>
-  
-  <div style="margin: 10px; text-align: center;">
-    <img src="screenshot/likedimages.png" alt="Liked Page" style="width: 100px;">
-    <p style="margin-top: 5px;text-align: center;">Liked Page</p>
-  </div>
-  
-  <div style="margin: 10px; text-align: center;width: 45%;">
-    <img src="screenshot/shippingpage.png" alt="Shipping Page" style="width: 100px;">
-    <p style="margin-top: 5px;text-align: center;">Shipping Page</p>
-  </div>
-</div>
-</div>
+<style>
+    table {
+        border-collapse: collapse;
+    }
+    table td, table th {
+        border: none;
+    }
+</style>
+
+| ![Home Page](screenshot/homepage.png) | ![Feedback Page](screenshot/feedbackpage.png) |
+|----------------------------------------|-----------------------------------------------|
+| Home Page                              | Feedback Page                                 |
+
+| ![Login Page](screenshot/loginpage.png) | ![Menu Page](screenshot/menupage.png) |
+|------------------------------------------|-----------------------------------------|
+| Login Page                               | Menu Page                               |
+
+| ![Product Details Page](screenshot/productdetail.png) | ![Cart Page](screenshot/cartpage.png) |
+|--------------------------------------------------------|----------------------------------------|
+| Product Details Page                                  | Cart Page                              |
+
+| ![Liked Page](screenshot/likedimages.png) | ![Shipping Page](screenshot/slippingpage.png) |
+|--------------------------------------------|------------------------------------------------|
+| Liked Page                                 | Shipping Page                                  |
+
 
 ## Future Enhancements
 - Add backend functionality for persistent data storage.
