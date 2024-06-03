@@ -66,51 +66,11 @@ After running the project, you can use the following features:
 - **Latha HN** - [Your GitHub](https://github.com/Latha56)
 
 ## Screenshots
-
-<div style="display: flex; justify-content: center;">
-    <div style="flex: 1; padding: 10px;">
-        <img src="screenshot/homepage.png" alt="Home Page" style="width: 100%;">
-        Home Page
-    </div>
-    <div style="flex: 1; padding: 10px;">
-        <img src="screenshot/feedbackpage.png" alt="Feedback Page" style="width: 100%;">
-        Feedback Page
-    </div>
-</div>
-
-<div style="display: flex; justify-content: center;">
-    <div style="flex: 1; padding: 10px;">
-        <img src="screenshot/loginpage.png" alt="Login Page" style="width: 100%;">
-        Login Page
-    </div>
-    <div style="flex: 1; padding: 10px;">
-        <img src="screenshot/menupage.png" alt="Menu Page" style="width: 100%;">
-        Menu Page
-    </div>
-</div>
-
-<div style="display: flex; justify-content: center;">
-    <div style="flex: 1; padding: 10px;">
-        <img src="screenshot/productdetail.png" alt="Product Details Page" style="width: 100%;">
-        Product Details Page
-    </div>
-    <div style="flex: 1; padding: 10px;">
-        <img src="screenshot/cartpage.png" alt="Cart Page" style="width: 100%;">
-        Cart Page
-    </div>
-</div>
-
-<div style="display: flex; justify-content: center;">
-    <div style="flex: 1; padding: 10px;">
-        <img src="screenshot/likedimages.png" alt="Liked Page" style="width: 100%;">
-        Liked Page
-    </div>
-    <div style="flex: 1; padding: 10px;">
-        <img src="screenshot/shippingpage.png" alt="Shipping Page" style="width: 100%;">
-        Shipping Page
-    </div>
-</div>
-
+<p align="center" width="100%">
+<figure><img width="25%" src="screenshot/homepage.png" alt="Description of the image"><figcaption>Home page </figcaption></figure>
+<figure><img width="25%" src="screenshot/homepage.png" alt="Description of the image"><figcaption>Home page </figcaption></figure>
+<figure><img width="25%" src="screenshot/homepage.png" alt="Description of the image"><figcaption>Home page </figcaption></figure>
+</p>
 
 
 ## Future Enhancements
