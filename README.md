@@ -74,17 +74,17 @@ After running the project, you can use the following features:
 <p align="left" width="100%"><img width="50%" src="screenshot/loginpage.png" alt="login"></p>
 
 ### Menu / Menu details page
-<p align="left" width="110%">
-<img width="50%" src="screenshot/menupage.png" alt="menu">
-<img width="50%" src="screenshot/productdetail.png" alt="details">
+<p align="left" width="100%">
+<img width="45%" src="screenshot/menupage.png" alt="menu">
+<img width="45%" src="screenshot/productdetail.png" alt="details">
 </p>
 
 ## Like page
 <p align="left" width="100%"><img width="50%" src="screenshot/likedimages.png" alt="liked"> </p>
 
 ## cart / shipping page
-<p align="left" width="110%"><img width="50%" src="screenshot/cartpage.png" alt="cart">
-<img width="50%" src="screenshot/slippingpage.png" alt="slipping"> </p>
+<p align="left" width="100%"><img width="45%" src="screenshot/cartpage.png" alt="cart">
+<img width="45%" src="screenshot/slippingpage.png" alt="slipping"> </p>
 
 ## feedback page
 <p align="left" width="100%"><img width="50%" src="screenshot/feedbackpage.png" alt="feedback"> </p>
